@@ -2,7 +2,7 @@
 
 > **A deep learning–based Natural Language Processing (NLP) application that automatically classifies BBC news articles into predefined categories using TensorFlow and Keras.**
 
-<p align="center">
+<p align="center">   
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
